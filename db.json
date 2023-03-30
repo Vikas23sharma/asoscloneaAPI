@@ -10,7 +10,7 @@
       "style": "half sleeve",
       "size": "S",
       "price": 65.00,
-      "product-type": "T-shirt"
+      "category": "T-shirt"
     },
     {
       "id": 102,
@@ -22,7 +22,7 @@
       "style": "half sleeve",
       "size": "M",
       "price": 13.00,
-      "product-type": "T-shirt"
+      "category": "T-shirt"
     },
     {
       "id": 103,
@@ -34,7 +34,7 @@
       "style": "half sleeve",
       "size": "L",
       "price": 13.00,
-      "product-type": "T-shirt"
+      "category": "T-shirt"
     },
     {
       "id": 104,
@@ -46,7 +46,7 @@
       "style": "half sleeve",
       "size": "XL",
       "price": 15.00,
-      "product-type": "T-shirt"
+      "category": "T-shirt"
     },
     {
       "id": 105,
@@ -58,7 +58,7 @@
       "style": "half sleeve",
       "size": "S",
       "price": 17.00,
-      "product-type": "T-shirt"
+      "category": "T-shirt"
     },
     {
       "id": 106,
@@ -70,7 +70,7 @@
       "style": "half sleeve",
       "size": "XL",
       "price": 12.00,
-      "product-type": "T-shirt"
+      "category": "T-shirt"
     },
     {
       "id": 107,
@@ -82,7 +82,7 @@
       "style": "half sleeve",
       "size": "M",
       "price": 10.00,
-      "product-type": "T-shirt"
+      "category": "T-shirt"
     },
     {
       "id": 108,
@@ -94,7 +94,7 @@
       "style": "half sleeve",
       "size": "L",
       "price": 18.00,
-      "product-type": "T-shirt"
+      "category": "T-shirt"
     },
     {
       "id": 109,
@@ -106,7 +106,7 @@
       "style": "half sleeve",
       "size": "M",
       "price": 12.50,
-      "product-type": "T-shirt"
+      "category": "T-shirt"
     },
     {
       "id": 110,
@@ -118,7 +118,7 @@
       "style": "half sleeve",
       "size": "XL",
       "price": 38.00,
-      "product-type": "T-shirt"
+      "category": "T-shirt"
     },
     {
       "id": 111,
@@ -130,7 +130,7 @@
       "style": "full sleeve",
       "size": "L",
       "price": 45.00,
-      "product-type": "Shirt"
+      "category": "Shirt"
     },
     {
       "id": 112,
@@ -142,7 +142,7 @@
       "style": "full sleeve",
       "size": "M",
       "price": 45.00,
-      "product-type": "Shirt"
+      "category": "Shirt"
     },
     {
       "id": 113,
@@ -154,7 +154,7 @@
       "style": "full sleeve",
       "size": "XL",
       "price": 48.00,
-      "product-type": "Shirt"
+      "category": "Shirt"
     },
     {
       "id": 114,
@@ -166,7 +166,7 @@
       "style": "full sleeve",
       "size": "XL",
       "price": 45.00,
-      "product-type": "Shirt"
+      "category": "Shirt"
     },
     {
       "id": 115,
@@ -178,7 +178,7 @@
       "style": "full sleeve",
       "size": "L",
       "price": 80.00,
-      "product-type": "Shirt"
+      "category": "Shirt"
     },
     {
       "id": 116,
@@ -190,7 +190,7 @@
       "style": "full sleeve",
       "size": "L",
       "price": 50.00,
-      "product-type": "Shirt"
+      "category": "Shirt"
     },
     {
       "id": 117,
@@ -202,7 +202,7 @@
       "style": "full sleeve",
       "size": "M",
       "price": 60.00,
-      "product-type": "Shirt"
+      "category": "Shirt"
     },
     {
       "id": 118,
@@ -214,7 +214,7 @@
       "style": "full sleeve",
       "size": "L",
       "price": 65.00,
-      "product-type": "Shirt"
+      "category": "Shirt"
     },
     {
       "id": 119,
@@ -226,7 +226,7 @@
       "style": "full sleeve",
       "size": "XL",
       "price": 68.00,
-      "product-type": "Shirt"
+      "category": "Shirt"
     },
     {
       "id": 120,
@@ -238,7 +238,7 @@
       "style": "full sleeve",
       "size": "XL",
       "price": 70.00,
-      "product-type": "Shirt"
+      "category": "Shirt"
     },
     {
       "id": 121,
@@ -250,7 +250,7 @@
       "style": "casual pants",
       "size": "L",
       "price": 78.00,
-      "product-type": "Pants"
+      "category": "Pants"
     },
     {
       "id": 122,
@@ -262,7 +262,7 @@
       "style": "casual pants",
       "size": "M",
       "price": 80.00,
-      "product-type": "Pants"
+      "category": "Pants"
     },
     {
       "id": 123,
@@ -274,7 +274,7 @@
       "style": "casual pants",
       "size": "XL",
       "price": 90.00,
-      "product-type": "Pants"
+      "category": "Pants"
     },
     {
       "id": 124,
@@ -286,7 +286,7 @@
       "style": "casual pants",
       "size": "M",
       "price": 85.00,
-      "product-type": "Pants"
+      "category": "Pants"
     },
     {
       "id": 125,
@@ -298,7 +298,7 @@
       "style": "casual pants",
       "size": "XL",
       "price": 70.00,
-      "product-type": "Pants"
+      "category": "Pants"
     },
     {
       "id": 126,
@@ -310,7 +310,7 @@
       "style": "casual pants",
       "size": "M",
       "price": 65.00,
-      "product-type": "Pants"
+      "category": "Pants"
     },
     {
       "id": 127,
@@ -322,7 +322,7 @@
       "style": "casual pants",
       "size": "XL",
       "price": 85.00,
-      "product-type": "Pants"
+      "category": "Pants"
     },
     {
       "id": 128,
@@ -334,7 +334,7 @@
       "style": "casual pants",
       "size": "XL",
       "price": 75.00,
-      "product-type": "Pants"
+      "category": "Pants"
     },
     {
       "id": 129,
@@ -346,7 +346,7 @@
       "style": "casual pants",
       "size": "L",
       "price": 55.00,
-      "product-type": "Pants"
+      "category": "Pants"
     },
     {
       "id": 130,
@@ -358,7 +358,7 @@
       "style": "casual pants",
       "size": "XL",
       "price": 78.00,
-      "product-type": "Pants"
+      "category": "Pants"
     },
     {
       "id": 131,
@@ -370,7 +370,7 @@
       "style": "casual shorts",
       "size": "M",
       "price": 50.00,
-      "product-type": "Shorts"
+      "category": "Shorts"
     },
     {
       "id": 132,
@@ -382,7 +382,7 @@
       "style": "casual shorts",
       "size": "S",
       "price": 45.00,
-      "product-type": "Shorts"
+      "category": "Shorts"
     },
     {
       "id": 133,
@@ -394,7 +394,7 @@
       "style": "casual shorts",
       "size": "M",
       "price": 64.00,
-      "product-type": "Shorts"
+      "category": "Shorts"
     },
     {
       "id": 134,
@@ -406,7 +406,7 @@
       "style": "casual shorts",
       "size": "XL",
       "price": 29.00,
-      "product-type": "Shorts"
+      "category": "Shorts"
     },
     {
       "id": 135,
@@ -418,7 +418,7 @@
       "style": "casual shorts",
       "size": "XL",
       "price": 60.00,
-      "product-type": "Shorts"
+      "category": "Shorts"
     },
     {
       "id": 136,
@@ -430,7 +430,7 @@
       "style": "casual shorts",
       "size": "M",
       "price": 60.00,
-      "product-type": "Shorts"
+      "category": "Shorts"
     },
     {
       "id": 137,
@@ -442,7 +442,7 @@
       "style": "casual shorts",
       "size": "L",
       "price": 35.00,
-      "product-type": "Shorts"
+      "category": "Shorts"
     },
     {
       "id": 138,
@@ -454,7 +454,7 @@
       "style": "casual shorts",
       "size": "M",
       "price": 55.00,
-      "product-type": "Shorts"
+      "category": "Shorts"
     },
     {
       "id": 139,
@@ -466,7 +466,7 @@
       "style": "casual shorts",
       "size": "L",
       "price": 50.00,
-      "product_type": "Shorts"
+      "category": "Shorts"
     },
     {
       "id": 140,
@@ -478,7 +478,7 @@
       "style": "casual shorts",
       "size": "S",
       "price": 35.00,
-      "product_type": "Shorts"
+      "category": "Shorts"
     },
     {
       "id": 141,
@@ -490,7 +490,7 @@
       "style": "track-suits",
       "size": "S",
       "price": 35.00,
-      "product_type": "Tracksuits"
+      "category": "Tracksuits"
     },
     {
       "id": 142,
@@ -502,7 +502,7 @@
       "style": "track-suits",
       "size": "L",
       "price": 50.00,
-      "product_type": "Tracksuits"
+      "category": "Tracksuits"
     },
     {
       "id": 143,
@@ -514,7 +514,7 @@
       "style": "track-suits",
       "size": "XL",
       "price": 95.00,
-      "product_type": "Tracksuits"
+      "category": "Tracksuits"
     },
     {
       "id": 144,
@@ -526,7 +526,7 @@
       "style": "track-suits",
       "size": "S",
       "price": 85.00,
-      "product_type": "Tracksuits"
+      "category": "Tracksuits"
     },
     {
       "id": 145,
@@ -538,7 +538,7 @@
       "style": "track-suits",
       "size": "M",
       "price": 86.00,
-      "product_type": "Tracksuits"
+      "category": "Tracksuits"
     },
     {
       "id": 146,
@@ -550,7 +550,7 @@
       "style": "track-suits",
       "size": "L",
       "price": 75.00,
-      "product_type": "Tracksuits"
+      "category": "Tracksuits"
     },
     {
       "id": 147,
@@ -562,7 +562,7 @@
       "style": "track-suits",
       "size": "XL",
       "price": 92.00,
-      "product_type": "Tracksuits"
+      "category": "Tracksuits"
     },
     {
       "id": 148,
@@ -574,7 +574,7 @@
       "style": "track-suits",
       "size": "S",
       "price": 54.00,
-      "product_type": "Tracksuits"
+      "category": "Tracksuits"
     },
     {
       "id": 149,
@@ -586,7 +586,7 @@
       "style": "track-suits",
       "size": "M",
       "price": 65.00,
-      "product_type": "Tracksuits"
+      "category": "Tracksuits"
     },
     {
       "id": 150,
@@ -598,7 +598,7 @@
       "style": "track-suits",
       "size": "L",
       "price": 87.00,
-      "product_type": "Tracksuits"
+      "category": "Tracksuits"
     },
     {
       "id": 151,
@@ -610,7 +610,7 @@
       "style": "track-suits",
       "size": "L",
       "price": 67.00,
-      "product_type": "Tracksuits"
+      "category": "Tracksuits"
     },
     {
       "id": 152,
@@ -622,7 +622,7 @@
       "style": "track-suits",
       "size": "L",
       "price": 62.00,
-      "product_type": "Tracksuits"
+      "category": "Tracksuits"
     }
   ],
   "womens": [
@@ -636,7 +636,7 @@
       "style": "sleeve less",
       "size": "L",
       "price": 58.00,
-      "product-type": "dress"
+      "category": "dress"
     },
     {
       "id": 302,
@@ -648,7 +648,7 @@
       "style": "half sleeves",
       "size": "L",
       "price": 53.00,
-      "product-type": "dress"
+      "category": "dress"
     },
     {
       "id": 303,
@@ -660,7 +660,7 @@
       "style": "sleeve less",
       "size": "XL",
       "price": 30.00,
-      "product-type": "dress"
+      "category": "dress"
     },
     {
       "id": 304,
@@ -672,7 +672,7 @@
       "style": "short sleeve",
       "size": "M",
       "price": 32.00,
-      "product-type": "dress"
+      "category": "dress"
     },
     {
       "id": 305,
@@ -684,7 +684,7 @@
       "style": "sleeve less",
       "size": "L",
       "price": 39.90,
-      "product-type": "dress"
+      "category": "dress"
     },
     {
       "id": 306,
@@ -696,7 +696,7 @@
       "style": "short sleeve",
       "size": "XL",
       "price": 62.90,
-      "product-type": "dress"
+      "category": "dress"
     },
     {
       "id": 307,
@@ -708,7 +708,7 @@
       "style": "full sleeve",
       "size": "S",
       "price": 69.90,
-      "product-type": "dress"
+      "category": "dress"
     },
     {
       "id": 308,
@@ -720,7 +720,7 @@
       "style": "short sleeve",
       "size": "XXL",
       "price": 52.90,
-      "product-type": "dress"
+      "category": "dress"
     },
     {
       "id": 309,
@@ -732,7 +732,7 @@
       "style": "full sleeve",
       "size": "L",
       "price": 121.90,
-      "product-type": "dress"
+      "category": "dress"
     },
     {
       "id": 310,
@@ -744,7 +744,7 @@
       "style": "sleeve less",
       "size": "L",
       "price": 62.90,
-      "product-type": "dress"
+      "category": "dress"
     },
     {
       "id": 311,
@@ -756,7 +756,7 @@
       "style": "sleeve less",
       "size": "S",
       "price": 40.00,
-      "product-type": "dress"
+      "category": "dress"
     },
     {
       "id": 312,
@@ -768,7 +768,7 @@
       "style": "full",
       "size": "L",
       "price": 56.00,
-      "product-type": "pants"
+      "category": "pants"
     },
     {
       "id": 313,
@@ -780,7 +780,7 @@
       "style": "full",
       "size": "S",
       "price": 69.90,
-      "product-type": "pants"
+      "category": "pants"
     },
     {
       "id": 314,
@@ -792,7 +792,7 @@
       "style": "full",
       "size": "M",
       "price": 53.00,
-      "product-type": "pants"
+      "category": "pants"
     },
     {
       "id": 315,
@@ -804,7 +804,7 @@
       "style": "full",
       "size": "M",
       "price": 62.90,
-      "product-type": "pants"
+      "category": "pants"
     },
     {
       "id": 316,
@@ -816,7 +816,7 @@
       "style": "full",
       "size": "S",
       "price": 53.00,
-      "product-type": "pants"
+      "category": "pants"
     },
     {
       "id": 317,
@@ -828,7 +828,7 @@
       "style": "full",
       "size": "XL",
       "price": 48.00,
-      "product-type": "pants"
+      "category": "pants"
     },
     {
       "id": 318,
@@ -840,7 +840,7 @@
       "style": "full",
       "size": "XXL",
       "price": 69.90,
-      "product-type": "pants"
+      "category": "pants"
     },
     {
       "id": 319,
@@ -852,7 +852,7 @@
       "style": "full",
       "size": "XL",
       "price": 56.00,
-      "product-type": "pants"
+      "category": "pants"
     },
     {
       "id": 320,
@@ -864,7 +864,7 @@
       "style": "full",
       "size": "S",
       "price": 65.90,
-      "product-type": "pants"
+      "category": "pants"
     },
     {
       "id": 321,
@@ -876,7 +876,7 @@
       "style": "full",
       "size": "M",
       "price": 48.90,
-      "product-type": "pants"
+      "category": "pants"
     },
     {
       "id": 322,
@@ -888,7 +888,7 @@
       "style": "full",
       "size": "M",
       "price": 57.90,
-      "product-type": "pants"
+      "category": "pants"
     },
     {
       "id": 323,
@@ -900,7 +900,7 @@
       "style": "full",
       "size": "L",
       "price": 42.00,
-      "product-type": "pants"
+      "category": "pants"
     },
     {
       "id": 324,
@@ -912,7 +912,7 @@
       "style": "full",
       "size": "L",
       "price": 48.00,
-      "product-type": "pants"
+      "category": "pants"
     },
     {
       "id": 325,
@@ -924,7 +924,7 @@
       "style": "full",
       "size": "L",
       "price": 49.00,
-      "product-type": "pants"
+      "category": "pants"
     },
     {
       "id": 326,
@@ -936,7 +936,7 @@
       "style": "full",
       "size": "L",
       "price": 57.00,
-      "product-type": "pants"
+      "category": "pants"
     },
     {
       "id": 327,
@@ -948,7 +948,7 @@
       "style": "full sleeve",
       "size": "XL",
       "price": 45.00,
-      "product-type": "dress"
+      "category": "dress"
     },
     {
       "id": 328,
@@ -960,7 +960,7 @@
       "style": "short sleeve",
       "size": "L",
       "price": 64.00,
-      "product-type": "dress"
+      "category": "dress"
     },
     {
       "id": 329,
@@ -972,7 +972,7 @@
       "style": "full sleeve",
       "size": "XXL",
       "price": 30.00,
-      "product-type": "dress"
+      "category": "dress"
     },
     {
       "id": 330,
@@ -984,7 +984,7 @@
       "style": "sleeve less",
       "size": "M",
       "price": 76.00,
-      "product-type": "dress"
+      "category": "dress"
     },
     {
       "id": 331,
@@ -996,7 +996,7 @@
       "style": "full sleeve",
       "size": "L",
       "price": 36.00,
-      "product-type": "top"
+      "category": "top"
     },
     {
       "id": 332,
@@ -1008,7 +1008,7 @@
       "style": "sleeve less",
       "size": "XL",
       "price": 16.00,
-      "product-type": "top"
+      "category": "top"
     },
     {
       "id": 333,
@@ -1020,7 +1020,7 @@
       "style": "sleeve less",
       "size": "L",
       "price": 66.00,
-      "product-type": "top"
+      "category": "top"
     },
     {
       "id": 334,
@@ -1032,7 +1032,7 @@
       "style": "full sleeve",
       "size": "XL",
       "price": 55.00,
-      "product-type": "top"
+      "category": "top"
     },
     {
       "id": 335,
@@ -1044,7 +1044,7 @@
       "style": "sleeve less",
       "size": "XL",
       "price": 9.00,
-      "product-type": "top"
+      "category": "top"
     },
     {
       "id": 336,
@@ -1056,7 +1056,7 @@
       "style": "full sleeve",
       "size": "L",
       "price": 46.00,
-      "product-type": "top"
+      "category": "top"
     },
     {
       "id": 337,
@@ -1068,7 +1068,7 @@
       "style": "full sleeve",
       "size": "L",
       "price": 56.00,
-      "product-type": "top"
+      "category": "top"
     },
     {
       "id": 338,
@@ -1080,7 +1080,7 @@
       "style": "sleeve less",
       "size": "S",
       "price": 200.00,
-      "product-type": "top"
+      "category": "top"
     },
     {
       "id": 339,
@@ -1092,7 +1092,7 @@
       "style": "short sleeve",
       "size": "XL",
       "price": 17.50,
-      "product-type": "top"
+      "category": "top"
     },
     {
       "id": 340,
@@ -1104,7 +1104,7 @@
       "style": "short sleeve",
       "size": "XL",
       "price": 30.00,
-      "product-type": "top"
+      "category": "top"
     },
     {
       "id": 341,
@@ -1116,7 +1116,7 @@
       "style": "short",
       "size": "M",
       "price": 32.00,
-      "product-type": "shorts"
+      "category": "shorts"
     },
     {
       "id": 342,
@@ -1128,7 +1128,7 @@
       "style": "short",
       "size": "S",
       "price": 22.00,
-      "product-type": "shorts"
+      "category": "shorts"
     },
     {
       "id": 343,
@@ -1140,7 +1140,7 @@
       "style": "short",
       "size": "M",
       "price": 45.00,
-      "product-type": "shorts"
+      "category": "shorts"
     },
     {
       "id": 344,
@@ -1152,7 +1152,7 @@
       "style": "short",
       "size": "L",
       "price": 55.00,
-      "product-type": "shorts"
+      "category": "shorts"
     },
     {
       "id": 345,
@@ -1164,7 +1164,7 @@
       "style": "short",
       "size": "XL",
       "price": 40.00,
-      "product-type": "shorts"
+      "category": "shorts"
     },
     {
       "id": 346,
@@ -1176,7 +1176,7 @@
       "style": "short",
       "size": "XXL",
       "price": 27.50,
-      "product-type": "shorts"
+      "category": "shorts"
     },
     {
       "id": 347,
@@ -1188,7 +1188,7 @@
       "style": "short",
       "size": "L",
       "price": 20.00,
-      "product-type": "shorts"
+      "category": "shorts"
     },
     {
       "id": 348,
@@ -1200,7 +1200,7 @@
       "style": "short",
       "size": "M",
       "price": 29.50,
-      "product-type": "shorts"
+      "category": "shorts"
     },
     {
       "id": 349,
@@ -1212,7 +1212,7 @@
       "style": "short",
       "size": "XXL",
       "price": 50.00,
-      "product-type": "shorts"
+      "category": "shorts"
     },
     {
       "id": 350,
@@ -1224,7 +1224,7 @@
       "style": "short",
       "size": "L",
       "price": 27.00,
-      "product-type": "shorts"
+      "category": "shorts"
     },
     {
       "id": 351,
@@ -1236,7 +1236,7 @@
       "style": "full sleeve",
       "size": "L",
       "price": 225.00,
-      "product-type": "jacket"
+      "category": "jacket"
     },
     {
       "id": 352,
@@ -1248,7 +1248,7 @@
       "style": "full sleeve",
       "size": "M",
       "price": 273.00,
-      "product-type": "jacket"
+      "category": "jacket"
     },
     {
       "id": 353,
@@ -1260,7 +1260,7 @@
       "style": "short sleeve",
       "size": "M",
       "price": 48.00,
-      "product-type": "jacket"
+      "category": "jacket"
     },
     {
       "id": 354,
@@ -1272,7 +1272,7 @@
       "style": "full sleeve",
       "size": "L",
       "price": 93.00,
-      "product-type": "jacket"
+      "category": "jacket"
     },
     {
       "id": 355,
@@ -1284,7 +1284,7 @@
       "style": "jacket",
       "size": "XL",
       "price": 115.90,
-      "product-type": "jacket"
+      "category": "jacket"
     },
     {
       "id": 356,
@@ -1296,7 +1296,7 @@
       "style": "full sleeve",
       "size": "M",
       "price": 157.00,
-      "product-type": "jacket"
+      "category": "jacket"
     },
     {
       "id": 357,
@@ -1308,7 +1308,7 @@
       "style": "full sleeve",
       "size": "XL",
       "price": 207.00,
-      "product-type": "jacket"
+      "category": "jacket"
     },
     {
       "id": 358,
@@ -1320,7 +1320,7 @@
       "style": "full sleeve",
       "size": "L",
       "price": 86.93,
-      "product-type": "jacket"
+      "category": "jacket"
     },
     {
       "id": 359,
@@ -1332,7 +1332,7 @@
       "style": "full sleeve",
       "size": "S",
       "price": 281.00,
-      "product-type": "jacket"
+      "category": "jacket"
     },
     {
       "id": 360,
@@ -1344,7 +1344,7 @@
       "style": "full sleeve",
       "size": "L",
       "price": 320.00,
-      "product-type": "jacket"
+      "category": "jacket"
     }
   ],
   "shoes": [
@@ -1358,7 +1358,7 @@
       "style": "sneakers",
       "gender": "men",
       "size": 6,
-      "product-type": "Sneakers"
+      "category": "shoes"
     },
     {
       "id": 2,
@@ -1370,7 +1370,7 @@
       "style": "sneakers",
       "gender": "men",
       "size": 7,
-      "product-type": "Sneakers"
+      "category": "shoes"
     },
     {
       "id": 3,
@@ -1382,7 +1382,7 @@
       "style": "sneakers",
       "gender": "men",
       "size": 8,
-      "product-type": "Sneakers"
+      "category": "shoes"
     },
     {
       "id": 4,
@@ -1394,7 +1394,7 @@
       "style": "sneakers",
       "gender": "men",
       "size": 9,
-      "product-type": "Sneakers"
+      "category": "shoes"
     },
     {
       "id": 5,
@@ -1406,7 +1406,7 @@
       "style": "sneakers",
       "gender": "men",
       "size": 6,
-      "product-type": "Sneakers"
+      "category": "shoes"
     },
     {
       "id": 6,
@@ -1418,7 +1418,7 @@
       "style": "sneakers",
       "gender": "men",
       "size": 7,
-      "product-type": "Sneakers"
+      "category": "shoes"
     },
     {
       "id": 7,
@@ -1430,7 +1430,7 @@
       "style": "sneakers",
       "gender": "men",
       "size": 8,
-      "product-type": "Sneakers"
+      "category": "shoes"
     },
     {
       "id": 8,
@@ -1442,7 +1442,7 @@
       "style": "sneakers",
       "gender": "men",
       "size": 9,
-      "product-type": "Sneakers"
+      "category": "shoes"
     },
     {
       "id": 9,
@@ -1454,7 +1454,7 @@
       "style": "boots",
       "gender": "men",
       "size": 6,
-      "product-type": "Boots"
+      "category": "shoes"
     },
     {
       "id": 10,
@@ -1466,7 +1466,7 @@
       "style": "boots",
       "gender": "men",
       "size": 7,
-      "product-type": "Boots"
+      "category": "shoes"
     },
     {
       "id": 11,
@@ -1478,7 +1478,7 @@
       "style": "boots",
       "gender": "men",
       "size": 8,
-      "product-type": "Boots"
+      "category": "shoes"
     },
     {
       "id": 12,
@@ -1490,7 +1490,7 @@
       "style": "boots",
       "gender": "men",
       "size": 9,
-      "product-type": "Boots"
+      "category": "shoes"
     },
     {
       "id": 13,
@@ -1502,7 +1502,7 @@
       "style": "formals",
       "gender": "men",
       "size": 7,
-      "product-type": "Formals"
+      "category": "shoes"
     },
     {
       "id": 14,
@@ -1514,7 +1514,7 @@
       "style": "formals",
       "gender": "men",
       "size": 9,
-      "product-type": "Formals"
+      "category": "shoes"
     },
     {
       "id": 15,
@@ -1526,7 +1526,7 @@
       "style": "formals",
       "gender": "men",
       "size": 8,
-      "product-type": "Formals"
+      "category": "shoes"
     },
     {
       "id": 16,
@@ -1538,7 +1538,7 @@
       "style": "formals",
       "gender": "men",
       "size": 6,
-      "product-type": "Formals"
+      "category": "shoes"
     },
     {
       "id": 17,
@@ -1550,7 +1550,7 @@
       "style": "casuals",
       "gender": "men",
       "size": 8,
-      "product-type": "Casuals"
+      "category": "shoes"
     },
     {
       "id": 18,
@@ -1562,7 +1562,7 @@
       "style": "casuals",
       "gender": "men",
       "size": 9,
-      "product-type": "Casuals"
+      "category": "shoes"
     },
     {
       "id": 19,
@@ -1574,7 +1574,7 @@
       "style": "casuals",
       "gender": "men",
       "size": 7,
-      "product-type": "Casuals"
+      "category": "shoes"
     },
     {
       "id": 20,
@@ -1586,7 +1586,7 @@
       "style": "casuals",
       "gender": "men",
       "size": 7,
-      "product-type": "Casuals"
+      "category": "shoes"
     },
     {
       "id": 21,
@@ -1598,7 +1598,7 @@
       "style": "sneakers",
       "gender": "women",
       "size": 9,
-      "product-type": "Sneakers"
+      "category": "shoes"
     },
     {
       "id": 22,
@@ -1610,7 +1610,7 @@
       "style": "sneakers",
       "gender": "women",
       "size": 6,
-      "product-type": "Sneakers"
+      "category": "shoes"
     },
     {
       "id": 23,
@@ -1622,7 +1622,7 @@
       "style": "sneakers",
       "gender": "women",
       "size": 8,
-      "product-type": "Sneakers"
+      "category": "shoes"
     },
     {
       "id": 24,
@@ -1634,7 +1634,7 @@
       "style": "sneakers",
       "gender": "women",
       "size": 6,
-      "product-type": "Sneakers"
+      "category": "shoes"
     },
     {
       "id": 25,
@@ -1646,7 +1646,7 @@
       "style": "sneakers",
       "gender": "women",
       "size": 9,
-      "product-type": "Sneakers"
+      "category": "shoes"
     },
     {
       "id": 26,
@@ -1658,7 +1658,7 @@
       "style": "sneakers",
       "gender": "women",
       "size": 8,
-      "product-type": "Sneakers"
+      "category": "shoes"
     },
     {
       "id": 27,
@@ -1670,7 +1670,7 @@
       "style": "sneakers",
       "gender": "women",
       "size": 9,
-      "product-type": "Sneakers"
+      "category": "shoes"
     },
     {
       "id": 28,
@@ -1682,7 +1682,7 @@
       "style": "sneakers",
       "gender": "women",
       "size": 7,
-      "product-type": "Sneakers"
+      "category": "shoes"
     },
     {
       "id": 29,
@@ -1694,7 +1694,7 @@
       "style": "boots",
       "gender": "women",
       "size": 6,
-      "product-type": "Boots"
+      "category": "shoes"
     },
     {
       "id": 30,
@@ -1706,7 +1706,7 @@
       "style": "boots",
       "gender": "women",
       "size": 8,
-      "product-type": "Boots"
+      "category": "shoes"
     },
     {
       "id": 31,
@@ -1718,7 +1718,7 @@
       "style": "boots",
       "gender": "women",
       "size": 9,
-      "product-type": "Boots"
+      "category": "shoes"
     },
     {
       "id": 32,
@@ -1730,7 +1730,7 @@
       "style": "boots",
       "gender": "women",
       "size": 6,
-      "product-type": "Boots"
+      "category": "shoes"
     },
     {
       "id": 33,
@@ -1742,7 +1742,7 @@
       "style": "formals",
       "gender": "women",
       "size": 8,
-      "product-type": "Formals"
+      "category": "shoes"
     },
     {
       "id": 34,
@@ -1754,7 +1754,7 @@
       "style": "formals",
       "gender": "women",
       "size": 9,
-      "product-type": "Formals"
+      "category": "shoes"
     },
     {
       "id": 35,
@@ -1766,7 +1766,7 @@
       "style": "formals",
       "gender": "women",
       "size": 6,
-      "product-type": "Formals"
+      "category": "shoes"
     },
     {
       "id": 36,
@@ -1778,7 +1778,7 @@
       "style": "formals",
       "gender": "women",
       "size": 8,
-      "product-type": "Formals"
+      "category": "shoes"
     },
     {
       "id": 37,
@@ -1790,7 +1790,7 @@
       "style": "casuals",
       "gender": "women",
       "size": 7,
-      "product-type": "Casuals"
+      "category": "shoes"
     },
     {
       "id": 38,
@@ -1802,7 +1802,7 @@
       "style": "casuals",
       "gender": "women",
       "size": 7,
-      "product-type": "Casuals"
+      "category": "shoes"
     },
     {
       "id": 39,
@@ -1814,7 +1814,7 @@
       "style": "casuals",
       "gender": "women",
       "size": 7,
-      "product-type": "Casuals"
+      "category": "shoes"
     },
     {
       "id": 40,
@@ -1826,7 +1826,7 @@
       "style": "casuals",
       "gender": "women",
       "size": 7,
-      "product-type": "Casuals"
+      "category": "shoes"
     }
   ],
   "jackets": [
@@ -1839,7 +1839,7 @@
       "style": "long-sleeve",
       "size": "M",
       "price": 1999.00,
-      "product-type": "jacket",
+      "category": "jacket",
       "id": 201
     },
     {
@@ -1851,7 +1851,7 @@
       "style": "long-sleeve",
       "size": "M",
       "price": 1999.00,
-      "product-type": "jacket",
+      "category": "jacket",
       "id": 202
     },
     {
@@ -1863,7 +1863,7 @@
       "style": "long-sleeve",
       "size": "M",
       "price": 1999.00,
-      "product-type": "jacket",
+      "category": "jacket",
       "id": 203
     },
     {
@@ -1875,7 +1875,7 @@
       "style": "long-sleeve",
       "size": "M",
       "price": 1999.00,
-      "product-type": "jacket",
+      "category": "jacket",
       "id": 204
     },
     {
@@ -1887,7 +1887,7 @@
       "style": "long-sleeve",
       "size": "M",
       "price": 149.00,
-      "product-type": "jacket",
+      "category": "jacket",
       "id": 205
     },
     {
@@ -1899,7 +1899,7 @@
       "style": "long-sleeve",
       "size": "M",
       "price": 99.00,
-      "product-type": "jacket",
+      "category": "jacket",
       "id": 206
     },
     {
@@ -1911,7 +1911,7 @@
       "style": "long-sleeve",
       "size": "M",
       "price": 99.00,
-      "product-type": "jacket",
+      "category": "jacket",
       "id": 207
     },
     {
@@ -1923,7 +1923,7 @@
       "style": "long-sleeve",
       "size": "M",
       "price": 99.00,
-      "product-type": "jacket",
+      "category": "jacket",
       "id": 208
     },
     {
@@ -1935,7 +1935,7 @@
       "style": "long-sleeve",
       "size": "M",
       "price": 119.00,
-      "product-type": "jacket",
+      "category": "jacket",
       "id": 209
     },
     {
@@ -1947,7 +1947,7 @@
       "style": "long-sleeve",
       "size": "M",
       "price": 129.00,
-      "product-type": "jacket",
+      "category": "jacket",
       "id": 210
     },
     {
@@ -1959,7 +1959,7 @@
       "style": "half-sleeve",
       "size": "M",
       "price": 139.00,
-      "product-type": "jacket",
+      "category": "jacket",
       "id": 211
     },
     {
@@ -1971,7 +1971,7 @@
       "style": "half-sleeve",
       "size": "M",
       "price": 149.00,
-      "product-type": "jacket",
+      "category": "jacket",
       "id": 212
     },
     {
@@ -1983,7 +1983,7 @@
       "style": "half-sleeve",
       "size": "M",
       "price": 199.00,
-      "product-type": "jacket",
+      "category": "jacket",
       "id": 213
     },
     {
@@ -1995,7 +1995,7 @@
       "style": "half-sleeve",
       "size": "M",
       "price": 199.00,
-      "product-type": "jacket",
+      "category": "jacket",
       "id": 214
     },
     {
@@ -2007,7 +2007,7 @@
       "style": "half-sleeve",
       "size": "M",
       "price": 199.00,
-      "product-type": "jacket",
+      "category": "jacket",
       "id": 215
     },
     {
@@ -2019,7 +2019,7 @@
       "style": "long-sleeve",
       "size": "L",
       "price": 1999.00,
-      "product-type": "jacket",
+      "category": "jacket",
       "id": 216
     },
     {
@@ -2031,7 +2031,7 @@
       "style": "long-sleeve",
       "size": "M",
       "price": 1999.00,
-      "product-type": "jacket",
+      "category": "jacket",
       "id": 217
     },
     {
@@ -2043,7 +2043,7 @@
       "style": "long-sleeve",
       "size": "M",
       "price": 1999.00,
-      "product-type": "jacket",
+      "category": "jacket",
       "id": 218
     },
     {
@@ -2055,7 +2055,7 @@
       "style": "long-sleeve",
       "size": "M",
       "price": 1999.00,
-      "product-type": "jacket",
+      "category": "jacket",
       "id": 219
     },
     {
@@ -2067,7 +2067,7 @@
       "style": "long-sleeve",
       "size": "M",
       "price": 1999.00,
-      "product-type": "jacket",
+      "category": "jacket",
       "id": 220
     },
     {
@@ -2079,7 +2079,7 @@
       "style": "long-sleeve",
       "size": "M",
       "price": 1999.00,
-      "product-type": "jacket",
+      "category": "jacket",
       "id": 221
     },
     {
@@ -2091,7 +2091,7 @@
       "style": "long-sleeve",
       "size": "XL",
       "price": 1999.00,
-      "product-type": "jacket",
+      "category": "jacket",
       "id": 222
     },
     {
@@ -2103,7 +2103,7 @@
       "style": "long-sleeve",
       "size": "L",
       "price": 1999.00,
-      "product-type": "jacket",
+      "category": "jacket",
       "id": 223
     },
     {
@@ -2115,7 +2115,7 @@
       "style": "long-sleeve",
       "size": "L",
       "price": 1999.00,
-      "product-type": "jacket",
+      "category": "jacket",
       "id": 224
     },
     {
@@ -2127,7 +2127,7 @@
       "style": "half-sleeve",
       "size": "XL",
       "price": 1999.00,
-      "product-type": "jacket",
+      "category": "jacket",
       "id": 225
     },
     {
@@ -2139,7 +2139,7 @@
       "style": "half-sleeve",
       "size": "XL",
       "price": 1999.00,
-      "product-type": "jacket",
+      "category": "jacket",
       "id": 226
     },
     {
@@ -2151,7 +2151,7 @@
       "style": "half-sleeve",
       "size": "M",
       "price": 196.00,
-      "product-type": "jacket",
+      "category": "jacket",
       "id": 227
     },
     {
@@ -2163,7 +2163,7 @@
       "style": "half-sleeve",
       "size": "M",
       "price": 129.00,
-      "product-type": "jacket",
+      "category": "jacket",
       "id": 228
     },
     {
@@ -2175,7 +2175,7 @@
       "style": "long-sleeve",
       "size": "L",
       "price": 249.00,
-      "product-type": "jacket",
+      "category": "jacket",
       "id": 229
     },
     {
@@ -2187,7 +2187,7 @@
       "style": "half-sleeve",
       "size": "L",
       "price": 299.00,
-      "product-type": "jacket",
+      "category": "jacket",
       "id": 230
     },
     {
@@ -2199,7 +2199,7 @@
       "style": "long-sleeve",
       "size": "L",
       "price": 399.00,
-      "product-type": "jacket",
+      "category": "jacket",
       "id": 231
     },
     {
@@ -2211,7 +2211,7 @@
       "style": "long-sleeve",
       "size": "M",
       "price": 1999.00,
-      "product-type": "jacket",
+      "category": "jacket",
       "id": 232
     },
     {
@@ -2223,7 +2223,7 @@
       "style": "long-sleeve",
       "size": "M",
       "price": 1999.00,
-      "product-type": "jacket",
+      "category": "jacket",
       "id": 233
     },
     {
@@ -2235,7 +2235,7 @@
       "style": "long-sleeve",
       "size": "M",
       "price": 1999.00,
-      "product-type": "jacket",
+      "category": "jacket",
       "id": 234
     },
     {
@@ -2247,7 +2247,7 @@
       "style": "long-sleeve",
       "size": "M",
       "price": 1999.00,
-      "product-type": "jacket",
+      "category": "jacket",
       "id": 235
     },
     {
@@ -2259,7 +2259,7 @@
       "style": "long-sleeve",
       "size": "M",
       "price": 1999.00,
-      "product-type": "jacket",
+      "category": "jacket",
       "id": 236
     },
     {
@@ -2271,7 +2271,7 @@
       "style": "long-sleeve",
       "size": "L",
       "price": 1999.00,
-      "product-type": "jacket",
+      "category": "jacket",
       "id": 237
     },
     {
@@ -2283,7 +2283,7 @@
       "style": "long-sleeve",
       "size": "L",
       "price": 1999.00,
-      "product-type": "jacket",
+      "category": "jacket",
       "id": 238
     },
     {
@@ -2295,7 +2295,7 @@
       "style": "long-sleeve",
       "size": "M",
       "price": 99.00,
-      "product-type": "jacket",
+      "category": "jacket",
       "id": 239
     },
     {
@@ -2307,7 +2307,7 @@
       "style": "long-sleeve",
       "size": "M",
       "price": 99.00,
-      "product-type": "jacket",
+      "category": "jacket",
       "id": 240
     },
     {
@@ -2319,7 +2319,7 @@
       "style": "long-sleeve",
       "size": "XL",
       "price": 1999.00,
-      "product-type": "jacket",
+      "category": "jacket",
       "id": 241
     },
     {
@@ -2331,7 +2331,7 @@
       "style": "long-sleeve",
       "size": "XL",
       "price": 1999.00,
-      "product-type": "jacket",
+      "category": "jacket",
       "id": 242
     },
     {
@@ -2343,7 +2343,7 @@
       "style": "long-sleeve",
       "size": "M",
       "price": 1999.00,
-      "product-type": "jacket",
+      "category": "jacket",
       "id": 243
     },
     {
@@ -2355,7 +2355,7 @@
       "style": "half-sleeve",
       "size": "M",
       "price": 1999.00,
-      "product-type": "jacket",
+      "category": "jacket",
       "id": 244
     },
     {
@@ -2367,7 +2367,7 @@
       "style": "half-sleeve",
       "size": "L",
       "price": 139.00,
-      "product-type": "jacket",
+      "category": "jacket",
       "id": 245
     },
     {
@@ -2379,7 +2379,7 @@
       "style": "long-sleeve",
       "size": "M",
       "price": 1999.00,
-      "product-type": "jacket",
+      "category": "jacket",
       "id": 246
     },
     {
@@ -2391,7 +2391,7 @@
       "style": "long-sleeve",
       "size": "M",
       "price": 1999.00,
-      "product-type": "jacket",
+      "category": "jacket",
       "id": 247
     },
     {
@@ -2403,7 +2403,7 @@
       "style": "long-sleeve",
       "size": "M",
       "price": 99.00,
-      "product-type": "jacket",
+      "category": "jacket",
       "id": 248
     },
     {
@@ -2415,7 +2415,7 @@
       "style": "long-sleeve",
       "size": "M",
       "price": 98.00,
-      "product-type": "jacket",
+      "category": "jacket",
       "id": 249
     },
     {
@@ -2427,7 +2427,7 @@
       "style": "long-sleeve",
       "size": "M",
       "price": 139.00,
-      "product-type": "jacket",
+      "category": "jacket",
       "id": 250
     },
     {
@@ -2439,7 +2439,7 @@
       "style": "long-sleeve",
       "size": "XL",
       "price": 1999.00,
-      "product-type": "jacket",
+      "category": "jacket",
       "id": 251
     },
     {
@@ -2451,7 +2451,7 @@
       "style": "long-sleeve",
       "size": "XL",
       "price": 599.00,
-      "product-type": "jacket",
+      "category": "jacket",
       "id": 252
     },
     {
@@ -2463,7 +2463,7 @@
       "style": "long-sleeve",
       "size": "XL",
       "price": 499.00,
-      "product-type": "jacket",
+      "category": "jacket",
       "id": 253
     },
     {
@@ -2475,7 +2475,7 @@
       "style": "long-sleeve",
       "size": "XL",
       "price": 399.00,
-      "product-type": "jacket",
+      "category": "jacket",
       "id": 254
     },
     {
@@ -2487,7 +2487,7 @@
       "style": "long-sleeve",
       "size": "XL",
       "price": 299.00,
-      "product-type": "jacket",
+      "category": "jacket",
       "id": 255
     },
     {
@@ -2499,7 +2499,7 @@
       "style": "long-sleeve",
       "size": "L",
       "price": 199.00,
-      "product-type": "jacket",
+      "category": "jacket",
       "id": 256
     },
     {
@@ -2511,7 +2511,7 @@
       "style": "long-sleeve",
       "size": "L",
       "price": 129.00,
-      "product-type": "jacket",
+      "category": "jacket",
       "id": 257
     },
     {
@@ -2523,7 +2523,7 @@
       "style": "long-sleeve",
       "size": "L",
       "price": 119.00,
-      "product-type": "jacket",
+      "category": "jacket",
       "id": 258
     },
     {
@@ -2535,7 +2535,7 @@
       "style": "long-sleeve",
       "size": "L",
       "price": 239.00,
-      "product-type": "jacket",
+      "category": "jacket",
       "id": 259
     }
   ],
